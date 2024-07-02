@@ -1,2 +1,1 @@
-# PRODIGY_ML_01
-Implementing  a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+I successfully developed a Linear Regression model to predict house prices in Boston. The model considers factors such as square footage, number of bedrooms, number of bathrooms, crime rate, and property location. Using Python along with libraries like Scikit-learn, Pandas, and Numpy, I was able to achieve maximum accuracy in predicting housing prices.
